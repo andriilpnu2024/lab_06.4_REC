@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Lenovo\source\repos\PR-6.4 REC\PR-6.4 REC\Source.cpp(16,6): warning C4101: 'b': unreferenced local variable
+C:\Users\Lenovo\source\repos\PR-6.4 REC\PR-6.4 REC\Source.cpp(15,6): warning C4101: 'a1': unreferenced local variable
+C:\Users\Lenovo\source\repos\PR-6.4 REC\PR-6.4 REC\Source.cpp(66,1): warning C4715: 'indexdodat': not all control paths return a value
+C:\Users\Lenovo\source\repos\PR-6.4 REC\PR-6.4 REC\Source.cpp(53,1): warning C4715: 'sum': not all control paths return a value
+  PR-6.4 REC.vcxproj -> C:\Users\Lenovo\source\repos\PR-6.4 REC\x64\Debug\PR-6.4 REC.exe
